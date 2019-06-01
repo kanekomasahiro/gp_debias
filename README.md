@@ -35,7 +35,7 @@ Perform debiasing for word embeddings and its evaluation. Debiased word embeddin
 
 ### Our debiased word embeddings
 
-You can directly download our de-biased [GP (glove)](https://drive.google.com/file/d/12VK2-BpLAg_-VPVl_wcLBZbzd9wcwyqN/view?usp=sharing) and [GP  (gn-glove)](https://drive.google.com/file/d/1Rn--1pxjBhyp5os7zw75VB-YQUHXcfgF/view?usp=sharing).
+You can directly download our debiased [GP (glove)](https://drive.google.com/file/d/12VK2-BpLAg_-VPVl_wcLBZbzd9wcwyqN/view?usp=sharing) and [GP  (gn-glove)](https://drive.google.com/file/d/1Rn--1pxjBhyp5os7zw75VB-YQUHXcfgF/view?usp=sharing).
 
 ### License
 See the LICENSE file.
