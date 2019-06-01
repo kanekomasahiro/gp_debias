@@ -28,7 +28,7 @@ First download the [necessary data](https://github.com/uclanlp/gn_glove) listed 
 ```
 ./download.sh
 ```
-Perform debiasing for word embeddings and its evaluation. Debiased word embeddings are stored in `debiased_embs` in both bin and txt format. Name of word embeddings to be debiased as `glove` or `gn` and give as the first argument. For example,
+Perform debiasing for word embeddings and its evaluation. Debiased word embeddings are stored in `debiased_embeddings` in both bin and txt format. Name of word embeddings to be debiased as `glove` or `gn` and give as the first argument. For example,
 ```
 ./run.sh gn
 ```
