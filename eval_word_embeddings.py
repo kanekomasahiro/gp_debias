@@ -8,8 +8,8 @@ import argparse
 def main():
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('-i', '--input', type=str, help='')
-    parser.add_argument('-g', '--sembias', type=str, default='SemBias/SemBias', help='')
+    parser.add_argument('-i', '--input', type=str, help='Input word embeddings for evaluation.')
+    parser.add_argument('-g', '--sembias', type=str, default='SemBias/SemBias', help='Evaluate using SemBias.')
     args = parser.parse_args()
     input_type = args.input[-3:]
 
