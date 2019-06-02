@@ -32,6 +32,10 @@ Perform debiasing for word embeddings and its evaluation. Debiased word embeddin
 ```
 ./run.sh gn
 ```
+You can evaluate your word embaddings with SemBias:
+```
+eval_word_embeddings.py -i path/to/your/embeddings
+```
 
 ### Our debiased word embeddings
 
