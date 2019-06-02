@@ -6,7 +6,6 @@ import torch
 from torch import cuda
 from gensim.models import KeyedVectors
 from gensim.test.utils import datapath
-from scipy import spatial
 import model
 import os
 import pickle
