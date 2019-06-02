@@ -2,7 +2,7 @@
 
 [Masahiro Kaneko](https://sites.google.com/view/masahirokaneko/english?authuser=0), [Danushka Bollegala](http://danushka.net/)
 
-Code and model files for the paper: "Gender-preserving Debiasing for Pre-trained Word Embeddings" (In ACL 2019). If you use any part of this work, make sure you include the following citation:
+Code and debiased word embeddings for the paper: "Gender-preserving Debiasing for Pre-trained Word Embeddings" (In ACL 2019). If you use any part of this work, make sure you include the following citation:
 
 ```
 @inproceedings{Kaneko:ACL:2019,    
