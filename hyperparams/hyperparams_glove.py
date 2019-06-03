@@ -55,4 +55,4 @@ class Hyperparams:
 
     epochs = 5
     seed = 0
-    gpu = 1
+    gpu = 0
