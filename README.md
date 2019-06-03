@@ -15,8 +15,10 @@ Code and debiased word embeddings for the paper: "Gender-preserving Debiasing fo
 
 ### Our experiment settings
 - python==3.7.2
-- torch==1.1.0
 - gensim==3.7.1
+- numpy==1.16.2
+- pandas==0.24.2
+- torch==1.1.0
 
 
 ### How to train yourself
